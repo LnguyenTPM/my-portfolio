@@ -335,7 +335,7 @@ header.masthead {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active{
-  color: #DB995A;
+  color: rgb(245, 0, 192);
 } 
 
 #mainNav .navbar-nav .nav-item .nav-link:hover {
