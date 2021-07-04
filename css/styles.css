@@ -107,7 +107,7 @@ header.masthead {
   justify-content: center;
   height: 3rem;
   width: 3rem;
-  background-color: #7d01f0;
+  background-color: #6a07fd;
   color: #f8f9fa;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -120,7 +120,7 @@ header.masthead {
   justify-content: center;
   height: 4rem;
   width: 4rem;
-  background-color: #6c757d;
+  background-color: #6a07fd;
   color: #f8f9fa;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -131,7 +131,7 @@ header.masthead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #dc7646;
+  background-color: #5307f8;
 }
 
 .dev-icons {
