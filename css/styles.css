@@ -107,7 +107,7 @@ header.masthead {
   justify-content: center;
   height: 3rem;
   width: 3rem;
-  background-color: #6c757d;
+  background-color: #7d01f0;
   color: #f8f9fa;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -188,7 +188,7 @@ header.masthead {
 
 .btn-primary {
   color: #f8f9fa;
-  background-color: #f3a14b;
+  background-color: #d0aeff;
   border-color: #f3a14b;
 }
 
