@@ -25,7 +25,7 @@ header.masthead {
   padding-top: 6rem;
   padding-bottom: 3rem;
   text-align: center;
-  background-color: #eadfc9;
+  background-color: #e8d8fa;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -34,7 +34,7 @@ header.masthead {
   font-weight: 450;
   font-size: 1.5rem;
   line-height: 1.2;
-  color: #dc7646;
+  color: #58059c;
 }
 .masthead-full-name {
   font-family: 'Anton', sans-serif;
@@ -42,7 +42,7 @@ header.masthead {
   font-size: 2.75rem;
 }
 .last-name-highlight {
-  color: #f3a14b;
+  color: #7d01f0;
 }
 @media (max-width: 576px) {
   .masthead-full-name {
