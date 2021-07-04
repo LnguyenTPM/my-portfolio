@@ -311,7 +311,7 @@ header.masthead {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #eadfc9;
+  background-color: #d0aeff;
   color: #f8f9fa;
 }
 #mainNav .navbar-toggler {
@@ -323,7 +323,7 @@ header.masthead {
   border: 0;
 }
 #mainNav .navbar-brand {
-  color: #dc7646;
+  color: #58059c;
   font-weight: 700;
   letter-spacing: 0.0625em;
   font-family: 'Anton', sans-serif;
