@@ -193,9 +193,9 @@ header.masthead {
 }
 
 .btn-primary:hover {
-  color: #f8f9fa;
-  background-color: #93ada4;
-  border-color:#93ada4;
+  color: #5307f8;
+  background-color: #bfb0f2;
+  border-color:#9e4bd5;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #bfdbcf;
